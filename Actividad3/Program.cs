@@ -8,6 +8,8 @@ class Program
     {
         string? cmd;
         Console.WriteLine("Bienvenido al programa de ejercicios de C#. ACTIVIDAD 3");
+        Console.WriteLine("Nombre completo del usuario1 grupo");
+        Console.WriteLine("Nombre completo del usuario2 grupo");
         do
         {
             cmd = Console.ReadLine();
